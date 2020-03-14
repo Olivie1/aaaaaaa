@@ -71,4 +71,5 @@ header h1 {
     position: absolute;
     top: 844px;
     left: 0px;
+    /* z-index: -1; */
 }
