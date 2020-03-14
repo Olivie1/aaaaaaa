@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header {
+    background: url('../img/Scene.png');
+    height: 1005px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+
+.menu li a {
+    font-family: Rubik, sans-serif;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 97px;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+.menu li:first-child {
+    margin-left: 0;
+}
+
+.menu {
+    display: inline-block;
+    margin-left: 292px;
+}
+
+header h1 {
+    font-family: DM Serif Display;
+    font-size: 100px;
+    line-height: 100%;
+    color: #fff;
+    width: 741px;
+    margin-top: 85px;
+}
+
+.start {
+    font-family: Rubik, serif;
+    font-weight: bold;
+    font-size: 16px;
+    background: #EE4D47;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 81px;
+    display: inline-block;
+    color: #fff;
+}
+
+.start:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.Auto {
+    position: absolute;
+    top: 844px;
+    left: 0px;
+}
